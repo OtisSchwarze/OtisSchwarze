@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Otis! I work for my organisation Sitos. I mostly work with C++ and Typescript using tools like Unreal Engine and React.
 
 <!--
 **OtisSchwarze/OtisSchwarze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
